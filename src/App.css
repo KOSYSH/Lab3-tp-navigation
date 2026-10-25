@@ -1,0 +1,15 @@
+.titre-principal {
+  color: #2c3e50;
+  font-size: 28px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.carte-conteneur {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 600px;
+  background-color: #f9f9f9;
+}
